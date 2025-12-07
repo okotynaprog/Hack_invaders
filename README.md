@@ -1,8 +1,6 @@
-## 👾 Hack Invaders 👾
-
 # 🚀 Hack Invaders: The Dopamine Engine
 
-## 👾 Opis Działania Gry
+## 👾 Hack Invaders 👾 
 
 **Hack Invaders** to dynamiczna gra webowa z segmentu arcade, stworzona z myślą o graczach, którzy cenią sobie ciągłą akcję i szybkie nagrody. Nasz projekt nie jest tylko grą – to starannie zaprojektowany model angażujący, mający na celu wywoływanie szybkich **wybuchów dopaminowych** i maksymalizowanie retencji.
 
