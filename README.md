@@ -1,5 +1,4 @@
 ## 👾 Hack Invaders 👾
-========================
 
 # 🚀 Hack Invaders: The Dopamine Engine
 
